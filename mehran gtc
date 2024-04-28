@@ -1,6 +1,6 @@
 # Logso
 logsoo
-*.log
+*.logo
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
