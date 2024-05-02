@@ -3,7 +3,7 @@ logsoo
 *.logo
 npm-debug.log*o
 yarn-debug.log*o
-yarn-error.log*
+yarn-error.log*o
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
