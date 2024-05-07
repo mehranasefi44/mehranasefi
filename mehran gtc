@@ -10,7 +10,7 @@ lerna-debug.log*o
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jsono
 
 # Runtime data9
-pids
+pids9
 *.pid
 *.seed
 *.pid.lock
