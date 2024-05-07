@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jsono
 
 # Runtime data9
 pids9
-*.pid
+*.pid9
 *.seed
 *.pid.lock
 
