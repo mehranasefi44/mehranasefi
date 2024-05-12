@@ -19,7 +19,7 @@ pids9
 lib-cov9
 
 # Coverage directory used by tools like istanbul9
-coverage
+coverage9
 *.lcov
 
 # nyc test coverage
