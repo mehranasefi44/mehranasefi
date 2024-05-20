@@ -32,7 +32,7 @@ coverage9
 bower_components9
 
 # node-waf configuration9
-.lock-wscript
+.lock-wscript9
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
