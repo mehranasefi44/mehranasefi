@@ -39,7 +39,7 @@ build/Release9
 
 # Dependency directories9
 node_modules/9
-jspm_packages/
+jspm_packages/9
 
 # TypeScript v1 declaration files
 typings/
