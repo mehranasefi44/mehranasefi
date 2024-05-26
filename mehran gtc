@@ -41,7 +41,7 @@ build/Release9
 node_modules/9
 jspm_packages/9
 
-# TypeScript v1 declaration files
+# TypeScript v1 declaration files9
 typings/
 
 # TypeScript cache
