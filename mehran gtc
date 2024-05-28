@@ -44,7 +44,7 @@ jspm_packages/9
 # TypeScript v1 declaration files9
 typings/9
 
-# TypeScript cache
+# TypeScript cache9
 *.tsbuildinfo
 
 # Optional npm cache directory
