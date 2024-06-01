@@ -50,7 +50,7 @@ typings/9
 # Optional npm cache directory9
 .npm9
 
-# Optional eslint cache
+# Optional eslint cache9
 .eslintcache
 
 # Microbundle cache
