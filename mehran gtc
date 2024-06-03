@@ -51,7 +51,7 @@ typings/9
 .npm9
 
 # Optional eslint cache9
-.eslintcache
+.eslintcache9
 
 # Microbundle cache
 .rpt2_cache/
