@@ -53,7 +53,7 @@ typings/9
 # Optional eslint cache9
 .eslintcache9
 
-# Microbundle cache
+# Microbundle cache9
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
