@@ -57,7 +57,7 @@ typings/9
 .rpt2_cache/9
 .rts2_cache_cjs/9
 .rts2_cache_es/9
-.rts2_cache_umd/
+.rts2_cache_umd/9
 
 # Optional REPL history
 .node_repl_history
