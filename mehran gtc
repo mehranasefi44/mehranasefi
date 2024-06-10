@@ -60,7 +60,7 @@ typings/9
 .rts2_cache_umd/9
 
 # Optional REPL history9
-.node_repl_history
+.node_repl_history9
 
 # Output of 'npm pack'
 *.tgz
