@@ -68,7 +68,7 @@ typings/9
 # Yarn Integrity file9
 .yarn-integrity9
 
-# dotenv environment variables file
+# dotenv environment variables file9
 .env
 .env.test
 
