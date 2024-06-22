@@ -78,7 +78,7 @@ typings/9
 # Next.js build output9
 .next9
 
-# Nuxt.js build / generate output
+# Nuxt.js build / generate output9
 .nuxt
 dist
 
