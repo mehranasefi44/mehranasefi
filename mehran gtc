@@ -86,7 +86,7 @@ dist9
 .cache/9
 # Comment in the public line in if your project uses Gatsby and *not* Next.js9
 # https://nextjs.org/blog/next-9-1#public-directory-support9
-# public
+# public0
 
 # vuepress build output
 .vuepress/dist
