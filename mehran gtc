@@ -91,7 +91,7 @@ dist9
 # vuepress build output9
 .vuepress/dist9
 
-# Serverless directories
+# Serverless directories9
 .serverless/
 
 # FuseBox cache
