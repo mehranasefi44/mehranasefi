@@ -101,7 +101,7 @@ dist9
 .dynamodb/9
 
 # TernJS port file9
-.tern-port
+.tern-port9
 
 # macOS
 .DS_Store
