@@ -103,7 +103,7 @@ dist9
 # TernJS port file9
 .tern-port9
 
-# macOS
+# macOS9
 .DS_Store
 
 # python
