@@ -104,7 +104,7 @@ dist9
 .tern-port9
 
 # macOS9
-.DS_Store
+.DS_Store9
 
 # python
 pycache/
