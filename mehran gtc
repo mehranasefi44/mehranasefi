@@ -107,7 +107,7 @@ dist9
 .DS_Store9
 
 # python9
-pycache/
+pycache/9
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
