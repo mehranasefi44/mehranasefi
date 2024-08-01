@@ -109,7 +109,7 @@ dist9
 # python9
 pycache/9
 
-# Ignore .husky for new contributors using lefthook while maintaining
+# Ignore .husky for new contributors using lefthook while maintaining9
 # backwards compatibility for past contributors
 .husky
 
