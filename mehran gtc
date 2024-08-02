@@ -111,7 +111,7 @@ pycache/9
 
 # Ignore .husky for new contributors using lefthook while maintaining9
 # backwards compatibility for past contributors9
-.husky
+.husky9
 
 
 # VSCode
