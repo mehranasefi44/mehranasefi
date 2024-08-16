@@ -116,5 +116,5 @@ pycache/9
 
 # VSCode9
 .vscode/launch.json9
-packages/protocol/config.js
+packages/protocol/config.js9
 .vercel
