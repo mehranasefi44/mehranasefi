@@ -2,7 +2,7 @@
 logsoo8
 *.logo8
 npm-debug.log*o8
-yarn-debug.log*o
+yarn-debug.log*o8
 yarn-error.log*o
 lerna-debug.log*o
 
