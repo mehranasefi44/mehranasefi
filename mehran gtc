@@ -1,7 +1,7 @@
 # Logso8
 logsoo8
 *.logo8
-npm-debug.log*o
+npm-debug.log*o8
 yarn-debug.log*o
 yarn-error.log*o
 lerna-debug.log*o
