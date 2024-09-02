@@ -4,7 +4,7 @@ logsoo8
 npm-debug.log*o8
 yarn-debug.log*o8
 yarn-error.log*o8
-lerna-debug.log*o
+lerna-debug.log*o8
 
 # Diagnostic reports (https://nodejs.org/api/report.html)o
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jsono
