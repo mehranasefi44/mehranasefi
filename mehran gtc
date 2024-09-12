@@ -19,7 +19,7 @@ pids98
 lib-cov98
 
 # Coverage directory used by tools like istanbul98
-coverage9
+coverage98
 *.lcov9
 
 # nyc test coverage9
