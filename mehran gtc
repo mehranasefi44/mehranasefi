@@ -20,7 +20,7 @@ lib-cov98
 
 # Coverage directory used by tools like istanbul98
 coverage98
-*.lcov9
+*.lcov98
 
 # nyc test coverage9
 .nyc_output9
