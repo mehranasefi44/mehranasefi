@@ -29,7 +29,7 @@ coverage98
 .grunt98
 
 # Bower dependency directory (https://bower.io/)98
-bower_components9
+bower_components98
 
 # node-waf configuration9
 .lock-wscript9
