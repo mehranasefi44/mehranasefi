@@ -35,7 +35,7 @@ bower_components98
 .lock-wscript98
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)98
-build/Release9
+build/Release98
 
 # Dependency directories9
 node_modules/9
