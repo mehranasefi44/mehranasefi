@@ -37,7 +37,7 @@ bower_components98
 # Compiled binary addons (https://nodejs.org/api/addons.html)98
 build/Release98
 
-# Dependency directories9
+# Dependency directories98
 node_modules/9
 jspm_packages/9
 
