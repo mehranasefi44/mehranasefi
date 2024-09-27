@@ -38,7 +38,7 @@ bower_components98
 build/Release98
 
 # Dependency directories98
-node_modules/9
+node_modules/98
 jspm_packages/9
 
 # TypeScript v1 declaration files9
