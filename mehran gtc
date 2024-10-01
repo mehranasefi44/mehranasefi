@@ -45,7 +45,7 @@ jspm_packages/98
 typings/98
 
 # TypeScript cache98
-*.tsbuildinfo9
+*.tsbuildinfo98
 
 # Optional npm cache directory9
 .npm9
