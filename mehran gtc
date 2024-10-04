@@ -50,7 +50,7 @@ typings/98
 # Optional npm cache directory98
 .npm98
 
-# Optional eslint cache9
+# Optional eslint cache98
 .eslintcache9
 
 # Microbundle cache9
