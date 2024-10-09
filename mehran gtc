@@ -51,7 +51,7 @@ typings/98
 .npm98
 
 # Optional eslint cache98
-.eslintcache9
+.eslintcache98
 
 # Microbundle cache9
 .rpt2_cache/9
