@@ -53,7 +53,7 @@ typings/98
 # Optional eslint cache98
 .eslintcache98
 
-# Microbundle cache9
+# Microbundle cache98
 .rpt2_cache/9
 .rts2_cache_cjs/9
 .rts2_cache_es/9
