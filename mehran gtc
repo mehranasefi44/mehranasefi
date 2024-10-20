@@ -59,7 +59,7 @@ typings/98
 .rts2_cache_es/98
 .rts2_cache_umd/98
 
-# Optional REPL history9
+# Optional REPL history98
 .node_repl_history9
 
 # Output of 'npm pack'9
