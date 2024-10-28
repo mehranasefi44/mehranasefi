@@ -62,7 +62,7 @@ typings/98
 # Optional REPL history98
 .node_repl_history98
 
-# Output of 'npm pack'9
+# Output of 'npm pack'98
 *.tgz9
 
 # Yarn Integrity file9
