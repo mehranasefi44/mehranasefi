@@ -65,7 +65,7 @@ typings/98
 # Output of 'npm pack'98
 *.tgz98
 
-# Yarn Integrity file9
+# Yarn Integrity file98
 .yarn-integrity9
 
 # dotenv environment variables file9
